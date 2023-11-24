@@ -59,7 +59,7 @@ msgstr ""
 
 #: ui/credits.ui:65
 msgid "Extension developers:"
-msgstr "مطورو الامتدادات:"
+msgstr "مطورو الإضافة:"
 
 #: ui/credits.ui:78
 msgid "Translators:"
@@ -68,7 +68,7 @@ msgstr "المترجمون:"
 #: ui/credits.ui:114
 msgid "Thanks to everyone who helped make and translate this extension :)"
 msgstr ""
-"شكرًا لكل من ساعد في إنشاء وترجمة هذا الامتداد :)"
+"شكرًا لكل من ساعد في إنشاء وترجمة هذه الإضافة:)"
 
 #. When this is selected, folders will appear in alphabetical order, mixed with applications.
 #: ui/prefs-gtk4.ui:11 ui/prefs.ui:14
@@ -127,8 +127,8 @@ msgstr "إعدادات المطور"
 #. This is a tooltip
 #: ui/prefs.ui:333
 msgid "Allow the extension to send messages to the system logs"
-msgstr "السماح للامتداد بإرسال رسائل إلى سجلات النظام"
+msgstr "السماح للإضافة بإرسال رسائل إلى سجلات النظام"
 
 #: ui/prefs.ui:352
 msgid "Enable extension logging"
-msgstr "تفعيل سجلات الامتداد"
+msgstr "تفعيل سجلات الإضافة"
